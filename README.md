@@ -16,7 +16,7 @@ Develop a deep understanding of the principles that underpin statistical inferen
   * Make prediction using linear, nonlinear and generalized linear models
   * Perform dimension reduction using principal component analysis (PCA)
 
-# Run a Jupyter in Google Colaboratory
+# Run a Jupyter notebook in Google Colaboratory
 The following ways can be used to load a GitHub-hosted notebook into [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).
 * Use this GitHub repository's url (subsequent GitHub sign-in is required) to open the notebook directly from GitHub.
 * Click on the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() badge on the top of the GitHub notebook displayed on the website (subsequent GitHub sign-in is required).
