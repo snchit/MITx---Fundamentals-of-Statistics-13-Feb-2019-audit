@@ -4,17 +4,18 @@ Develop a deep understanding of the principles that underpin statistical inferen
 # Course Information
 * **Provider**: Massachusetts Institute of Technology (MITx)
 * **MicroMasters® Program**: [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
-* **Track**: audit (non-verified)
+* **Course website**: [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics)
+* **Course number**: 18.6501x
 * **Course Format**: Instructor-Led
-* **Website**: [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics)
 * **Start date**: Feb 13, 2019
 * **End date**: Jun 1, 2019
-* **Expected Outcomes**:
+* **Expected outcomes**:
   * Construct estimators using method of moments and maximum likelihood, and decide how to choose between them
   * Quantify uncertainty using confidence intervals and hypothesis testing
   * Choose between different models using goodness of fit test
   * Make prediction using linear, nonlinear and generalized linear models
   * Perform dimension reduction using principal component analysis (PCA)
+* **Learning track**: audit (non-verified)
 
 # Run a Jupyter notebook in Google Colaboratory
 The following ways can be used to load a GitHub-hosted notebook into [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).
